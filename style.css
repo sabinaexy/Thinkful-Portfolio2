@@ -1,0 +1,78 @@
+body {
+  background-color: D3D0CB;
+}
+
+footer {
+  background-color: darkgray;
+}
+
+h1 {
+font-family: Candara, Cochin;
+color: blue;
+font-size: 30px;
+text-align: center;
+}
+
+h2 {
+  color: red;
+  font-family: Impact, sans-serif;
+  font-size: 25px;
+  letter-spacing: 0px;
+  text-align: center;
+  height: 50px;
+}
+
+h3 {
+  font-size: 24px;
+  padding: 5px 10px;
+  background-color: orange;
+  text-align: center;
+}
+
+h4 {
+  color: hotpink;
+}
+
+p {
+  font-family: geneva, tahoma;
+
+}
+
+hr {
+  height: 10px;
+  border: 5px;
+  background-color: green;
+}
+
+u1 {
+  color: teal;
+  font-size: 15px;
+  text-align: right;
+  border: solid;
+}
+
+.center {
+  display: block;
+  margin: auto;
+  background-color: rgba(125, 35, 209, 0.192);
+}
+
+.photo {
+  padding: 4px;
+  background-color: blueviolet;
+  display: block;
+  margin: auto; 
+}
+
+.blueText {
+  color: blue;
+}
+
+.social-media-links:link,
+.social-media-links:visited,
+.social-media-links:active {
+  color: #392759;
+}
+.social-media-links:hover {
+  color: blueviolet;
+}
